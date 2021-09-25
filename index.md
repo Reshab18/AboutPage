@@ -1,10 +1,10 @@
 # Hi there! My name is [Reshab Mehta](Images/pic.jpg)
 
 ## Quick links to content on the page
-- [Introduction](https://github.com/Reshab18/AboutPage/new/main#introduction)
-- [Hobbies](https://github.com/Reshab18/AboutPage/new/main#hobbies)
-- [Social Media](https://github.com/Reshab18/AboutPage/new/main#social-media)
-- [Degree Course Requirements](https://github.com/Reshab18/AboutPage/new/main#degree-course-requirements) 
+- [Introduction](https://github.com/Reshab18/AboutPage/blob/main/index.md#introduction)
+- [Hobbies](https://github.com/Reshab18/AboutPage/blob/main/index.md#hobbies)
+- [Social Media](https://github.com/Reshab18/AboutPage/blob/main/index.md#social-media)
+- [Degree Course Requirements](https://github.com/Reshab18/AboutPage/blob/main/index.md#degree-course-requirements) 
 
 ![This is me](Images/pic.jpg) 
 
