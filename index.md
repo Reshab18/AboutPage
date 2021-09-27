@@ -1,4 +1,4 @@
-# Hi there! My name is [Reshab Mehta](Images/pic.jpg)
+# Hi there! My name is [Reshab Mehta](https://github.com/Reshab18/AboutPage/blob/main/Images/pic.jpg?raw=true)
 
 ## Quick links to content on the page
 - [Introduction](https://github.com/Reshab18/AboutPage/blob/main/index.md#introduction)
