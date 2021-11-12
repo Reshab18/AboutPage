@@ -6,7 +6,7 @@
 - [Social Media](https://github.com/Reshab18/AboutPage/blob/main/index.md#social-media)
 - [Degree Course Requirements](https://github.com/Reshab18/AboutPage/blob/main/index.md#degree-course-requirements) 
 
-![This is me](Images/pic.jpg) 
+<img src="Images/pic.jpg" alt="My Pic" width="200"/>
 
 ## Introduction 
 I am a senior at the University of California, San Diego ([UCSD](https://ucsd.edu/)) pursuing a Bachelor’s degree in ***Mathematics-Computer Science***. 
